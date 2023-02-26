@@ -5,7 +5,7 @@ simple bot for one people oriented notes, suggestions, etc
 
 ## Preparing enviroment
 since bot is written on nextcord discord framework you need to install it:
-```console
+```sh
 $ pip install -U nextcord
 # and then for debian based systems:
 $ apt install libffi-dev libnacl-dev python3-dev
