@@ -10,9 +10,11 @@ then just make `todos.json` with empty array `[]` inside
 all people can:
 * see all todos
 * see states of todos
+* add todos
 </br>
 
 owner can:
+* all what common people can
 * change states of todos
 * remove todos
 * reset todos
