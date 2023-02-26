@@ -1,17 +1,17 @@
 # todo-bot
 ---
 simple bot for one people oriented notes, suggestions, etc
-</br>
+<br/>
 ## Preparing bot
 as first you need to create `token.txt`
-and put bot token here,
+and put bot token here, <br/>
 then just make `todos.json` with empty array `[]` inside
 ## Persimmions
 all people can:
 * see all todos
 * see states of todos
 * add todos
-</br>
+<br/>
 
 owner can:
 * all what common people can
