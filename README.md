@@ -11,6 +11,7 @@ all people can:
 * see all todos
 * see states of todos
 </br>
+
 owner can:
 * change states of todos
 * remove todos
