@@ -1,6 +1,6 @@
 # todo-bot
 ---
-simple bot for non personal notes, suggestions, etc
+simple bot for one people oriented notes, suggestions, etc
 </br>
 ## Preparing bot
 as first you need to create `token.txt`
